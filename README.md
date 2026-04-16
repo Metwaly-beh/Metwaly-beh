@@ -24,4 +24,10 @@ This is my main account everything i created i did from scratch no copy/paste te
 - i like cats 🐈
 - I Play alot of Video games 🕹️
 - I like Building things that are Helpful and Useful 🔨
+
 - «لا يتعلم العلم ‌مستحي ولا مستكبر».
+--- 
+##linkedin
+
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
