@@ -9,7 +9,7 @@ Not too deep into any career path yet -- Im still learning and studying
 
 I have some professional experience in video editing
 
-This is my main account everything i created i did from scratch no copy/paste templates were used, most of my projects i created to learn from
+This is my main account everything i created i did from scratch no copy/paste templates were used, most of my projects were created with the goal to of learning
 
 
 --- 
