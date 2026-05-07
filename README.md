@@ -5,7 +5,7 @@
 
 I am a computer Engineer based in Egypt
 
-Not too deep into any career path yet -- Im still learning and studying 
+Interested in AI and Fullstack Engineering
 
 I have some professional experience in video editing
 
