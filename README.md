@@ -5,7 +5,7 @@
 
 I am a computer Engineer based in Egypt
 
-Interested in AI and Fullstack Engineering
+Interested in MLOps and Fullstack Engineering
 
 I have some professional experience in video editing
 
