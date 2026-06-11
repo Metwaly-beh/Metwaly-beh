@@ -12,12 +12,6 @@ I have some professional experience in video editing
 This is my main account everything i created i did from scratch no copy/paste templates were used, most of my projects were created with the goal to of learning
 
 
---- 
-## Tech stats👾:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Metwaly-beh&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 ---
 ## A Bit About Me
 
