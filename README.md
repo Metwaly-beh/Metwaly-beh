@@ -1,22 +1,25 @@
-## Hi , I'm Adham😎
+# Hey, I'm Adham 😼
 
-🖥️ Computer Engineering Student at the GUC</br>
-🧱 I build stuff</br>
-
-I am a computer Engineer based in Egypt
-
-Interested in AI Engineering
-
-I have some professional experience in video editing
-
-This is my main account everything i created i did from scratch no copy/paste templates were used, most of my projects were created with the goal to of learning
-
+**Computer Engineering Student @ GUC** • **Egypt**  
+*Building software, hardware, and systems to understand how things work under the hood.*
 
 ---
-## A Bit About Me
 
-- i like cats 🐈
-- I Play alot of Video games 🕹️
-- I like Building things that are Helpful and Useful 🔨
+### 🧱 What I Do
+* ⚙️ **Computer Engineering:** Working with software development, embedded systems, and infrastructure.
+* 🧪 **Scratch Builder:** Building projects ground-up to learn core mechanics rather than relying on high-level templates.
+* 🔨 **Practical Focus:** Creating simple, functional tools that solve real problems.
 
-- «لا يتعلم العلم ‌مستحي ولا مستكبر».
+---
+
+### 🕹️ Outside the Terminal
+* 🐈 Cats > everything
+* 🎮 Video games
+* 🔨 Building helpful tools
+* 📜 «لا يتعلم العلم ‌مستحي ولا مستكبر»
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Metwaly-beh&show_icons=true&theme=dark&hide_border=true" alt="Adham's GitHub Stats" />
+</div>
