@@ -1,4 +1,4 @@
-# Hey, I'm Adham 😼
+# Hey, I'm Adham 
 
 **Computer Engineering Student @ GUC** • **Egypt**  
 *Building software, hardware, and systems to understand how things work under the hood.*
