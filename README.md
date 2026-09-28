@@ -13,7 +13,6 @@
 ---
 
 ### 🕹️ Outside the Terminal
-* 🐈 Cats > everything
 * 🎮 Video games
 * 🔨 Building helpful tools
 * 📜 «لا يتعلم العلم ‌مستحي ولا مستكبر»
